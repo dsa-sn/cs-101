@@ -112,6 +112,12 @@ deal with these problems using exceptions.
 * Refactor iterative approaches into recursive functions, and apply their knowledge of each approach to determine which approach has the best time and space complexity.  
 * Call a web API and parse the JSON response. 
 
+## Capstone Project (Final Project)
+Herd immunity (also called herd effect, community immunity, population immunity, or mass immunity) is a form of indirect protection that applies only to contagious diseases. It occurs when a sufficient percentage of a population has become immune to an infection, whether through previous infections or vaccination, thereby reducing the likelihood of infection for individuals who lack immunity.
+
+Once the herd immunity has been reached, disease gradually disappears from a population and may result in eradication or permanent reduction of infections to zero if achieved worldwide. Herd immunity created via vaccination has contributed to the reduction of many diseases.
+[https://en.wikipedia.org/wiki/Herd_immunity](https://en.wikipedia.org/wiki/Herd_immunity)
+
 ## Instructor
 
 This course is taught in <strong>Wolof</strong> by <strong>Fodé Diop</strong> -- [@diop](https://github.com/diop)
