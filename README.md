@@ -1,21 +1,22 @@
-CS101 -- Programming Fundamentals
+# CS101 -- Programming Fundamentals
+
+By Dakar Software Academy
 
 ## Prerequisites
 
-This course is designed to help equip students with the technical skills and foundational knowledge necessary
-to succeed at Dakar Software Academy.  As such, there are no prerequisites for this course.  
+This course is designed to help equip students with the technical skills and foundational knowledge necessary to succeed at Dakar Software Academy.  As such, there are no prerequisites for this course.  
 
 ## Course Overview
 
 This course is designed to help students with beginner-level coding experience master
 the fundamentals of coding and Computer Science, so that they will be well-equipped to
-get the most out of all the other courses they'll take at Dakar Software Academy. This course will cover
+get the most out of all the other courses they'll take at <strong>Dakar Software Academy</strong>. This course will cover
 the foundations of Procedural and Object-Oriented Programming, functions and recursion, debugging,
 best practices for solving problems, and how to write clean, structured code.  
 
 ### Who should enroll (optional)
 
-Anybody! 
+Everybody! 
 
 ## Learning Objectives
 
@@ -110,6 +111,10 @@ deal with these problems using exceptions.
 * Identify the recursive step and base case when shown recursive functions.
 * Refactor iterative approaches into recursive functions, and apply their knowledge of each approach to determine which approach has the best time and space complexity.  
 * Call a web API and parse the JSON response. 
+
+## Instructor
+
+This course is taught in Wolof by <strong>Fodé Diop</strong> -- [@diop](https://github.com/diop)
 
 </br>
 
