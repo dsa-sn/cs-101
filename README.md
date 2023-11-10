@@ -114,7 +114,7 @@ deal with these problems using exceptions.
 
 ## Instructor
 
-This course is taught in Wolof by <strong>Fodé Diop</strong> -- [@diop](https://github.com/diop)
+This course is taught in <strong>Wolof</strong> by <strong>Fodé Diop</strong> -- [@diop](https://github.com/diop)
 
 </br>
 
